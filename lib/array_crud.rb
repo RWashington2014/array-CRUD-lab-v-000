@@ -1,9 +1,10 @@
 def create_an_empty_array
   Array.new
+  #[]
 end
 
 def create_an_array
-
+  ["Optimus Prime", "Megatron", "BumbleBee", "HotRod"]
 end
 
 def add_element_to_end_of_array(array, element)
